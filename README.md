@@ -64,7 +64,7 @@ This project uses four main relational tables:
 ```bash
 git clone https://github.com/HruthikExploiter/Nova_Mart_Analysis_1.git
 cd NOVA_MART_Analysis_1
-add your dataset folder in teh NOVA_MART_Analysis_1 folder
+#add your dataset folder in the NOVA_MART_Analysis_1 folder
 pip install -r requirements.txt
 ```
 

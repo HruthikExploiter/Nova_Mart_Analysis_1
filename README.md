@@ -69,9 +69,9 @@ pip install -r requirements.txt
 
 ### **Running the Analysis**
 ```bash
-python src/main_analysis.py
+jupyter notebook NOVA_MART_project.ipynb
 ```
 
 ## 📬 Contact
 **Hruthik Gajjala**  
-[LinkedIn Profile](YOUR_LINKEDIN_URL_HERE)
+[LinkedIn Profile](www.linkedin.com/in/hruthik-gajjala)
